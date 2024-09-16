@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+
+li::first-letter{
+    font-size: 200%;
+    color: brown;
+}
+ul > li {
+    font-weight: bold;
+    color: deeppink;
+}
+ul li:hover {
+    color: gold;
+}
+a{
+    color: rgb(152, 255, 111);
+}
+
+
